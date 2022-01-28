@@ -1,25 +1,31 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-side-navbar",
+  "version": "1.0.0",
+  "description": "The side navigation component built wit the latest Bootstrap 5 provides an easy way to navigate through your website.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-side-navbar.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "navbar",
     "bootstrap5",
-    "circle-image-view"
+    "responsive-design",
+    "bootstrap-template",
+    "collapse-componante",
+    "bootstrap-sidebar",
+    "bootstrap-sidenav",
+    "bootstrap5-template",
+    "side-navbar"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-side-navbar/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/side-navbar/"
 }
